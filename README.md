@@ -1,5 +1,3 @@
-# readme no perfil :D
-
 [![support][support-image]][support-invite]
 
 [support-invite]: https://support.switchblade.xyz
