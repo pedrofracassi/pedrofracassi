@@ -7,23 +7,14 @@
 
 ## Follow me around the interwebs
 
+<img src="https://invidget.switchblade.xyz/2FB8wDG" align="right">
+
 - 🐦 **[Twitter](http://twitter.com/plfracassi_)** @plfracassi_
 - 💼 **[LinkedIn](https://www.linkedin.com/in/pedrofracassi/)** @pedrofracassi
 - 📸 **[Instagram](http://instagram.com/pedro.fracassi)** @pedro.fracassi
 - 🎧 **[Last.fm](https://www.last.fm/user/pedrofracassi)** @pedrofracassi
 - 🚴‍♂️ **[Strava](https://www.strava.com/athletes/pedrofracassi)** @pedrofracassi 
 - 🎮 **Discord** pedrofracassi#4623
-
-<br>
-<div align="center">
-
-  [![support][support-image]][support-invite]
-
-  
-
-  <sub><sup>Invite render generated with [invidget](http://github.com/SwitchbladeBot/invidget). Add one to your README too!</sup></sub>
-
-</div>
 
 [support-invite]: https://support.switchblade.xyz
 [support-image]: https://invidget.switchblade.xyz/2FB8wDG
