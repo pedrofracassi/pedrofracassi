@@ -7,7 +7,9 @@
 
 ## Follow me around the interwebs
 
+<a href="https://support.switchblade.xyz">
 <img src="https://invidget.switchblade.xyz/2FB8wDG" align="right">
+</a>
 
 - 🐦 **[Twitter](http://twitter.com/plfracassi_)** @plfracassi_
 - 💼 **[LinkedIn](https://www.linkedin.com/in/pedrofracassi/)** @pedrofracassi
@@ -15,6 +17,3 @@
 - 🎧 **[Last.fm](https://www.last.fm/user/pedrofracassi)** @pedrofracassi
 - 🚴‍♂️ **[Strava](https://www.strava.com/athletes/pedrofracassi)** @pedrofracassi 
 - 🎮 **Discord** pedrofracassi#4623
-
-[support-invite]: https://support.switchblade.xyz
-[support-image]: https://invidget.switchblade.xyz/2FB8wDG
