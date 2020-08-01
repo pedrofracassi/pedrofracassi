@@ -3,6 +3,7 @@
 - I'm a 17-years-old self-taught developer based in **Salvador, Brazil**.
 - I mainly code in **JavaScript**, but I'm also very interested in Go. 
 - I currently maintain an open source Discord bot called [Switchblade](http://github.com/SwitchbladeBot) and help out with a music website called [Musicorum](http://musicorumapp.com) (also [open source](http://github.com/musicorum-app)!).
+- In **{{MONTH_NAME}}**, I spent {{WAKATIME_HOURS}} hours, {{WAKATIME_MINUTES}} minutes and {{WAKATIME_SECONDS}} seconds coding stuff.
 - Ask me anything about JavaScript or chat bots, I might be able to help you!
 
 ## Follow me around the interwebs
