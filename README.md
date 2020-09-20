@@ -9,8 +9,6 @@
 
 <a href="https://support.switchblade.xyz">
   <img src="https://invidget.switchblade.xyz/2FB8wDG" align="right">
-  <br>
-  <img src="https://user-images.githubusercontent.com/25179120/93714281-fdea8680-fb37-11ea-8983-3f055fc7a57b.png" align="right">
 </a>
 <a href="https://discord.gg/ENcM67N">
   <img src="https://invidget.switchblade.xyz/ENcM67N" align="right">
