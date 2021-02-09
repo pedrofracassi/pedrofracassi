@@ -10,8 +10,11 @@
 <a href="https://support.switchblade.xyz">
   <img src="https://invidget.switchblade.xyz/2FB8wDG" align="right">
 </a>
-<a href="https://discord.gg/ENcM67N">
-  <img src="https://invidget.switchblade.xyz/ENcM67N" align="right">
+<a href="https://discord.gg/QetHNQJPMk">
+  <img src="https://invidget.switchblade.xyz/QetHNQJPMk" align="right">
+</a>
+<a href="https://discord.gg/nYyjARTyK4">
+  <img src="https://invidget.switchblade.xyz/nYyjARTyK4" align="right">
 </a>
 
 
