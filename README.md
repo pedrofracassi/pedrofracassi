@@ -1,8 +1,9 @@
 # ✌ Hi, I'm Pedro!
 
 - I'm an 18-years-old self-taught developer based in **Salvador, Brazil**.
+- Currently studying **Computer Engineering** at [Insper](https://github.com/Insper)
 - I mainly code in **JavaScript**, but I'm also very interested in Go. 
-- I currently maintain an open source Discord bot called [Switchblade](http://github.com/SwitchbladeBot) and help out with a music website called [Musicorum](http://musicorumapp.com) (also [open source](http://github.com/musicorum-app)!).
+- I'm a freelance Discord bot developer, working with many companies to improve their presence in the platform. [Hire me](mailto:pedroluizfracassi@gmail.com)
 - Ask me anything about JavaScript or chat bots, I might be able to help you!
 
 ## Follow me around the interwebs
