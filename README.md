@@ -1,8 +1,8 @@
 # ✌ Hi, I'm Pedro!
 
-- I'm an 18-years-old self-taught developer based in **Salvador, Brazil**.
+- I'm an 19-years-old self-taught developer from **Salvador, Brazil** but living in **São Paulo**.
 - Currently studying **Computer Engineering** at [Insper](https://github.com/Insper)
-- I mainly code in **JavaScript**, but I'm also very interested in Go. 
+- I mainly code in **TypeScript**, but I'm also very interested in Go. 
 - I'm a freelance Discord bot developer, working with many companies to improve their presence in the platform. [Hire me](mailto:hello@fracassi.tech)
 - Ask me anything about JavaScript or chat bots, I might be able to help you!
 
@@ -22,6 +22,7 @@
 
 - 🐦 **[Twitter](http://twitter.com/plfracassi_)** @plfracassi_
 - 💼 **[LinkedIn](https://www.linkedin.com/in/pedrofracassi/)** @pedrofracassi
+- 🎵 **[TikTok](https://www.tiktok.com/@pedro.fracassi)** @pedro.fracassi
 - 📸 **[Instagram](http://instagram.com/pedro.fracassi)** @pedro.fracassi
 - 🎧 **[Last.fm](https://www.last.fm/user/pedrofracassi)** @pedrofracassi
 - 🚴‍♂️ **[Strava](https://www.strava.com/athletes/pedrofracassi)** @pedrofracassi 
