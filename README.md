@@ -1,7 +1,7 @@
 # ✌ Hi, I'm Pedro!
 
 - I'm an 19-years-old self-taught developer from **Salvador, Brazil** but living in **São Paulo**.
-- Currently an undergraduate student of **Computer Engineering** at [Insper](https://github.com/Insper)
+- Currently an undergraduate **Computer Engineering** student at [Insper](https://insper.edu.br)
 - I mainly code in **TypeScript**, but I'm also very interested in Go. 
 - I'm a freelance Discord bot developer, working with many companies to improve their presence in the platform. [Hire me](mailto:hello@fracassi.tech)
 - Ask me anything about JavaScript or chat bots, I might be able to help you!
