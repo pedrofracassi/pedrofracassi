@@ -2,8 +2,7 @@
 
 - I'm a 20 years old self-taught developer from **Salvador, Brazil** but living in **São Paulo**.
 - Currently an undergraduate **Computer Engineering** student at [Insper](https://insper.edu.br)
-- I mainly code in **TypeScript**, but I'm also very interested in Go. 
-- I'm the **CTO & Founder** of [@WarlocksTech](https://github.com/warlockstech), a company building bots and communities within Discord.
+- I mainly code in **TypeScript**, but I'm also very interested in Go.
 
 ## Follow me around the interwebs
 
