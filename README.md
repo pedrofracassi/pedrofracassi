@@ -1,8 +1,9 @@
-# ✌ Hi, I'm Pedro!
+# ✌ Hi, I'm Pedro! 🤘
 
-- I'm a 20 years old self-taught developer from **Salvador, Brazil** but living in **São Paulo**.
+- I'm a 21 years old self-taught developer from **Salvador, Brazil** but living in **São Paulo**.
 - Currently an undergraduate **Computer Engineering** student at [Insper](https://insper.edu.br)
-- I mainly code in **TypeScript**, but I'm also very interested in Go.
+- I've developed solutions for companies such as **Riot Games** and **Globo**.
+- [Check my CV for more details](https://cv.pedrofracassi.dev/).
 
 ## Follow me around the interwebs
 
